@@ -1,0 +1,13 @@
+requests
+Flask
+gensim==3.8.3
+scikit-learn
+autocorrect
+nltk
+contractions
+textsearch
+bs4
+snowballstemmer
+inflect
+numpy
+pdfminer.six
